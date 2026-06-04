@@ -67,6 +67,19 @@ My current focus areas include:
 - GitHub: https://github.com/KTrinity-Neo
 
 ## ⚡ Fun Fact
+I am actively building practical cybersecurity experience through hands-on labs and real-world simulations.
+I enjoy analyzing network traffic, system behavior, and security incidents in SOC environments.
+I focus on learning by doing, using tools like Wireshark, Splunk, and Linux in practice scenarios.
+I am currently developing strong foundational skills toward becoming a SOC Analyst.
 
+## Featured Projects
+
+🔹 TryHackMe Writeups
+🔹 SOC Analyst Labs
+🔹 Linux for Cybersecurity
+🔹 Python Cybersecurity Scripts
+🔹 Splunk Security Labs
+🔹 Wazuh Security Monitoring
+🔹 Vulnerability Assessment Labs
 I enjoy building hands-on labs and continuously exploring new cybersecurity tools and technologies.
 
